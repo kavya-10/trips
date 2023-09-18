@@ -1,0 +1,14 @@
+#img1{
+    height: 70vh !important;
+}
+img{
+    /* height: 20vh; */
+    height: 25vh !important;
+    width: 50vw;
+}
+#heit{
+    height: 40vh !important;
+}
+a:hover{
+    color: blue;
+}
